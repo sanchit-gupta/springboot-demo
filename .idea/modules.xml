@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springbootmvc01.iml" filepath="$PROJECT_DIR$/springbootmvc01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videoready-analytics-2.0.iml" filepath="$PROJECT_DIR$/videoready-analytics-2.0.iml" />
     </modules>
   </component>
 </project>

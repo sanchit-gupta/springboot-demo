@@ -20,6 +20,11 @@ war {
     baseName = 'companies'
     version =  '0.1'
 }
+
+jar {
+    baseName = 'gs-accessing-data-mongodb'
+    version =  '0.1.0'
+}
  
 repositories {
     mavenCentral()
@@ -29,6 +34,12 @@ repositories {
  
 dependencies {
     compile 'org.springframework.boot:spring-boot-starter-web'
+    compile("org.springframework.boot:spring-boot-starter-data-mongodb")
+    compile ("com.amazonaws:aws-java-sdk-core:1.10.32")
+    compile ("com.amazonaws:aws-java-sdk-sqs:1.10.32")
+    compile ("com.amazonaws:aws-java-sdk-s3:1.10.32")
+    compile ('org.apache.logging.log4j:log4j-api:2.4.1')
+    compile ('org.apache.logging.log4j:log4j-core:2.4.1')
     //Required dependency for JSP
     providedRuntime 'org.apache.tomcat.embed:tomcat-embed-jasper'
 }
