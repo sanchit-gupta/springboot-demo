@@ -2,69 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4be2f90-2303-465d-8ee7-12469f43254c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/videoready/queue/sdk/AmazonSQSClientConnection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/videoready/apis/ApiAWSRestController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/companies/api/BrowserAndOSUtil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/CompanyApplication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/companies/api/Config.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/mongo/Customer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/mongo/CustomerRepository.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/json/EmpRestURIConstants.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/json/Employee.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/json/EmployeeController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/videoready/queue/sdk/QueueIOService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/SimpleQueueServiceSample.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/web/WebController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/config/WebMvcConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/aspectjrt.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/aspectjweaver.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/aws-java-sdk-1.10.40-javadoc.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/aws-java-sdk-1.10.40-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/aws-java-sdk-1.10.40.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/aws-java-sdk-flow-build-tools-1.10.40.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/downloaded/com.fasterxml.jackson.databind.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/commons-codec-1.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/commons-logging-1.1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/freemarker-2.3.18.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/httpclient-4.3.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/httpcore-4.3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/jackson-annotations-2.5.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/jackson-core-2.5.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/jackson-databind-2.5.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/javax.mail-api-1.4.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/joda-time-2.8.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/spring-beans-3.0.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/spring-context-3.0.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/a_sanchit_tricked/spring-core-3.0.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/companies/api/BrowserAndOSUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/companies/api/Config.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/main/com/companies/aws/credentials" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_core_1_10_32.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_kms_1_10_32.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_s3_1_10_32.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_sqs_1_10_32.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__joda_time_joda_time_2_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_3_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_core_2_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mongodb_mongo_java_driver_2_12_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_mongodb_1_2_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_1_9_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_mongodb_1_6_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_4_1_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springbootmvc01.iml" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/companies/config/WebMvcConfig.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/companies/web/WebController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootmvc01.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/companies/config/WebMvcConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/companies/web/WebController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/hello.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/show.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/update.jsp" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/classes/main/com/companies/api/ApiRestController.class" afterPath="$PROJECT_DIR$/out/production/main/com/companies/api/ApiRestController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/companies/api/ApiRestController.class" afterPath="$PROJECT_DIR$/build/classes/main/com/companies/api/ApiRestController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/companies/api/ApiRestController.java" afterPath="$PROJECT_DIR$/src/main/java/com/companies/api/ApiRestController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___springbootmvc01___companies_0_1_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___springbootmvc01___companies_0_1_war.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___springbootmvc01___companies_0_1_war__exploded_.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___springbootmvc01___companies_0_1_war__exploded_.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/main.iml" afterPath="$PROJECT_DIR$/src/main/main.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="springbootmvc01.iws" />
@@ -1609,12 +1571,12 @@
       <workItem from="1450677262174" duration="5726000" />
       <workItem from="1450701366053" duration="235000" />
       <workItem from="1453631953923" duration="3242000" />
-      <workItem from="1453703522809" duration="436000" />
+      <workItem from="1453703522809" duration="460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75769000" />
+    <option name="totallyTimeSpent" value="75793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
