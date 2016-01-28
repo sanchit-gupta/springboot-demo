@@ -18,3 +18,7 @@ out/
 *.ids
 *.ipr
 *.bat
+*.class
+*.bin
+*.xml
+*.lock
