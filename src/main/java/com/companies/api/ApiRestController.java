@@ -23,7 +23,7 @@ public class ApiRestController {
     @Autowired
     BrowserAndOSUtil browserAndOSUtil;
 
-    @RequestMapping("/video/index")
+    @RequestMapping(value = "/video/index")
     public String index() {
 
         log.info("log from /video/index");
