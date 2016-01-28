@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4be2f90-2303-465d-8ee7-12469f43254c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="springbootmvc01.iws" />
@@ -77,8 +78,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5427632" vertical-offset="0" max-vertical-offset="390">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.098684214" vertical-offset="0" max-vertical-offset="390">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -717,6 +718,7 @@
         <option value="$PROJECT_DIR$/src/main/java/app/main/SpringMongoConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/app/main/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/companies/CompanyApplication.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1538,12 +1540,12 @@
       <workItem from="1453891955911" duration="215000" />
       <workItem from="1453892241814" duration="74000" />
       <workItem from="1453893768735" duration="2192000" />
-      <workItem from="1453973128025" duration="2077000" />
+      <workItem from="1453973128025" duration="2167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82200000" />
+    <option name="totallyTimeSpent" value="82290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -2001,8 +2003,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5427632" vertical-offset="0" max-vertical-offset="390">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.098684214" vertical-offset="0" max-vertical-offset="390">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
