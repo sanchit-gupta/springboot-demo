@@ -29,5 +29,6 @@
     <orderEntry type="library" name="jackson-annotations-2.1.1 (2)" level="project" />
     <orderEntry type="library" name="com.fasterxml.jackson.databind" level="project" />
     <orderEntry type="library" name="Gradle: com.amazonaws:aws-java-sdk-s3:1.10.32" level="project" />
+    <orderEntry type="library" name="Gradle: org.mongodb:mongo-java-driver:2.12.5" level="project" />
   </component>
 </module>

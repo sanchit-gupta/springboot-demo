@@ -1,18 +1,16 @@
 package com.companies;
 
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
-import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.Configuration;
 
 import java.util.Arrays;
+//
+//@Configuration
+//@ComponentScan
+//@EnableAutoConfiguration
 
-@Configuration
-@ComponentScan
-@EnableAutoConfiguration
-
-//@SpringBootApplication
+@SpringBootApplication
 public class CompanyApplication {
  
     public static void main(String[] args) {
@@ -26,5 +24,4 @@ public class CompanyApplication {
             System.out.println(beanName);
         }
     }
- 
 }
