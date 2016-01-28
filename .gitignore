@@ -1,6 +1,6 @@
 web-app/WEB-INF
-portals/videoready-analytics-2.0/build/
-portals/videoready-analytics-2.0/.gradle/
+build/
+.gradle/
 .idea/
 .classpath
 .project
