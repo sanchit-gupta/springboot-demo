@@ -40,6 +40,8 @@ dependencies {
 //    compile ("com.amazonaws:aws-java-sdk-s3:1.10.32")
     compile ('org.apache.logging.log4j:log4j-api:2.4.1')
     compile ('org.apache.logging.log4j:log4j-core:2.4.1')
+    compile 'com.fasterxml.jackson.core:jackson-databind:2.1.2'
+    compile 'com.fasterxml.jackson.core:jackson-annotations:2.1.2'
     //Required dependency for JSP
     providedRuntime 'org.apache.tomcat.embed:tomcat-embed-jasper'
 }
